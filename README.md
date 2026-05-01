@@ -10,6 +10,5 @@ I architect and build complete systems from hardware provisioning to full-stack 
 <br>
 
 <div style="display: flex; align-items: stretch; gap: 16px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hbinhng&show_icons=true&locale=en&theme=dark" alt="hbinhng" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hbinhng&theme=dark" alt="hbinhng" />
 </div>
